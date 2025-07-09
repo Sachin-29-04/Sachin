@@ -1,0 +1,3 @@
+﻿RawTableName,RawTableColumn,DataType,CuratedTableName,CuratedTableColumn,CuratedTableDataType,PresentationLayTableName,PresentationLayerColumn,PresentationLayerColDataType
+User,ID,STRING,Employee,EMPID,Emp,STRING,EMPID,STRING
+User,Name,STRING,Employee,EmpName,Emp,STRING,EmpName,STRING
